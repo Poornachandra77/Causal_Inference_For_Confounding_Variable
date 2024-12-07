@@ -25,7 +25,7 @@ Two case studies highlighting the real-world impact of confounding variables on 
 
 ## Getting Started
 Clone the repository:
-git clone https://github.com/your-repo-name.git
+git clone (https://github.com/Poornachandra77/Causal_Inference_For_Confounding_Variable.git)
 
 Install the required dependencies:
 pip install -r requirements.txt
